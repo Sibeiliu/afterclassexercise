@@ -2,7 +2,7 @@
 title: "Untitled"
 author: "Sibei Liu"
 date: "2019/9/14"
-output: html_document
+output: github_document
 ---
 
 
